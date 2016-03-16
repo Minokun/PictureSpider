@@ -1,0 +1,10 @@
+('C:\\Users\\Minok\\Desktop\\pthon\\exe\\pyinstaller\\Minok\\dist\\Minok.exe',
+ False,
+ False,
+ 'my.ico',
+ None,
+ [],
+ None,
+ True,
+ 0,
+ 1458114884L)
